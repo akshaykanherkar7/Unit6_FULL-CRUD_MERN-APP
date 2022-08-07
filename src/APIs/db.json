@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1659856745551, "title": "Ganesh", "status": true },
+    { "id": 1659857160481, "title": "Akshay", "status": false }
+  ],
+  "students": [{ "id": 1, "name": "Ganesh", "attendance": false }]
+}
